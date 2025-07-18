@@ -1,0 +1,101 @@
+TransactionID,Date,Category,Description,Amount,PaymentMethod
+1,2025-06-28,Utilities,Electric Bill,15.7,E-Transfer
+2,2025-04-30,Health,Dentist,56.06,Cash
+3,2025-05-13,Utilities,Water Bill,59.76,E-Transfer
+4,2025-01-22,Health,Health Products,147.45,Debit Card
+5,2025-06-03,Health,Health Products,10.03,E-Transfer
+6,2025-05-08,Utilities,Internet,40.87,E-Transfer
+7,2025-03-22,Transport,Bus Pass,43.65,E-Transfer
+8,2025-04-30,Utilities,Internet,94.71,E-Transfer
+9,2025-02-18,Health,Dentist,77.13,Credit Card
+10,2025-04-20,Dining,McDonald's,56.96,Cash
+11,2025-01-13,Health,Pharmacy,11.57,Cash
+12,2025-01-08,Groceries,Walmart,57.44,E-Transfer
+13,2025-02-09,Transport,Bus Pass,132.49,Credit Card
+14,2025-06-28,Utilities,Electric Bill,42.2,Debit Card
+15,2025-03-30,Utilities,Phone Bill,38.49,Credit Card
+16,2025-02-23,Transport,Uber,76.78,Cash
+17,2025-03-06,Transport,Bus Pass,74.47,Cash
+18,2025-04-05,Groceries,Costco,9.99,Debit Card
+19,2025-06-06,Transport,Uber,120.45,Cash
+20,2025-03-15,Dining,Pizza Hut,100.42,E-Transfer
+21,2025-06-15,Entertainment,Spotify,114.81,Credit Card
+22,2025-05-09,Transport,Bus Pass,47.86,Credit Card
+23,2025-05-14,Entertainment,Concert,115.28,Credit Card
+24,2025-05-03,Dining,McDonald's,42.64,Debit Card
+25,2025-01-19,Transport,Gas Station,43.44,Credit Card
+26,2025-06-30,Dining,Pizza Hut,31.1,Credit Card
+27,2025-04-26,Entertainment,Netflix,94.29,Cash
+28,2025-06-15,Entertainment,Spotify,95.88,Credit Card
+29,2025-04-07,Dining,Subway,104.36,Credit Card
+30,2025-02-12,Groceries,Costco,66.11,E-Transfer
+31,2025-04-13,Entertainment,Spotify,29.72,Credit Card
+32,2025-03-05,Dining,Pizza Hut,55.07,Debit Card
+33,2025-02-12,Entertainment,Netflix,104.11,Credit Card
+34,2025-05-22,Utilities,Electric Bill,106.62,Credit Card
+35,2025-02-13,Health,Doctor,80.22,Credit Card
+36,2025-02-09,Health,Dentist,104.48,E-Transfer
+37,2025-06-20,Transport,Uber,62.72,Cash
+38,2025-01-16,Transport,Uber,45.67,Debit Card
+39,2025-05-14,Entertainment,Movie Ticket,100.1,Cash
+40,2025-02-07,Dining,Pizza Hut,78.38,Debit Card
+41,2025-06-29,Health,Doctor,72.4,Credit Card
+42,2025-03-19,Health,Health Products,44.06,Cash
+43,2025-06-14,Dining,Starbucks,70.75,Credit Card
+44,2025-05-30,Groceries,Safeway,84.23,E-Transfer
+45,2025-02-28,Entertainment,Concert,109.07,Cash
+46,2025-04-24,Utilities,Internet,9.76,Cash
+47,2025-06-30,Transport,Train Ticket,6.29,Debit Card
+48,2025-03-18,Health,Health Products,145.44,Credit Card
+49,2025-01-07,Health,Doctor,126.6,E-Transfer
+50,2025-02-07,Health,Health Products,14.28,E-Transfer
+51,2025-01-10,Groceries,Safeway,100.6,Debit Card
+52,2025-04-13,Health,Pharmacy,121.03,Credit Card
+53,2025-03-04,Utilities,Water Bill,46.75,E-Transfer
+54,2025-02-01,Groceries,Walmart,101.85,Debit Card
+55,2025-01-19,Utilities,Internet,107.27,Credit Card
+56,2025-04-20,Transport,Bus Pass,106.17,E-Transfer
+57,2025-03-16,Groceries,Superstore,77.99,Debit Card
+58,2025-04-06,Groceries,Safeway,145.5,Credit Card
+59,2025-06-20,Entertainment,Netflix,15.4,E-Transfer
+60,2025-06-28,Transport,Uber,61.59,Cash
+61,2025-05-26,Entertainment,Spotify,30.46,Cash
+62,2025-03-04,Utilities,Electric Bill,40.99,Credit Card
+63,2025-04-20,Utilities,Phone Bill,43.65,E-Transfer
+64,2025-03-15,Entertainment,Spotify,21.23,Debit Card
+65,2025-04-08,Transport,Uber,148.51,Cash
+66,2025-06-09,Utilities,Electric Bill,60.33,Credit Card
+67,2025-03-31,Entertainment,Movie Ticket,141.37,Credit Card
+68,2025-04-05,Utilities,Electric Bill,135.84,Cash
+69,2025-02-11,Dining,Starbucks,101.35,Cash
+70,2025-01-19,Health,Pharmacy,121.31,Cash
+71,2025-02-16,Health,Dentist,89.38,E-Transfer
+72,2025-02-22,Dining,Subway,141.54,Cash
+73,2025-05-05,Health,Dentist,91.4,Credit Card
+74,2025-02-14,Groceries,Safeway,39.54,Cash
+75,2025-02-08,Utilities,Electric Bill,69.74,E-Transfer
+76,2025-02-21,Entertainment,Concert,16.34,E-Transfer
+77,2025-03-23,Utilities,Water Bill,24.72,Debit Card
+78,2025-05-27,Health,Pharmacy,51.37,Debit Card
+79,2025-01-16,Health,Health Products,68.32,Credit Card
+80,2025-06-21,Dining,Subway,125.31,Cash
+81,2025-06-19,Dining,McDonald's,147.6,Credit Card
+82,2025-01-09,Groceries,Costco,47.45,Credit Card
+83,2025-05-09,Dining,Starbucks,147.46,Credit Card
+84,2025-03-17,Utilities,Internet,114.51,Debit Card
+85,2025-04-10,Dining,Pizza Hut,36,Cash
+86,2025-05-17,Utilities,Internet,42.91,E-Transfer
+87,2025-04-21,Entertainment,Netflix,120.82,E-Transfer
+88,2025-01-08,Entertainment,Spotify,100.08,Cash
+89,2025-05-31,Entertainment,Netflix,31.41,Credit Card
+90,2025-06-14,Health,Dentist,22.66,E-Transfer
+91,2025-01-19,Groceries,Safeway,110.26,Credit Card
+92,2025-06-27,Groceries,Superstore,7.28,E-Transfer
+93,2025-06-10,Entertainment,Spotify,60.36,Cash
+94,2025-05-03,Dining,McDonald's,143.14,Credit Card
+95,2025-03-09,Entertainment,Concert,129.23,Cash
+96,2025-02-16,Transport,Bus Pass,76.46,E-Transfer
+97,2025-04-04,Dining,Pizza Hut,15.38,Debit Card
+98,2025-05-26,Health,Health Products,142.33,Credit Card
+99,2025-05-06,Dining,Starbucks,7.31,Cash
+100,2025-03-29,Utilities,Phone Bill,53.57,E-Transfer
